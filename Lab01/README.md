@@ -15,12 +15,17 @@ For example, if your program reads the numbers: 1, 3, 10, 2 and 5, it should pri
 
 ## Exercise 3
 ABC company decided to grant a salary increase to its employees according to the table below:
-<br><br>       SALARY - READJUSTMENTE PERCENTAGE
-<br>0 - 400.00         - 15%
-<br>400.01 - 800.00    - 12%
-<br>800.01 - 1200.00   - 10%
-<br>1200.01 - 2000.00  - 7%
-<br>Above 2000.00      - 4%
+<p align="center">
+
+| Salary  | Readjustment Percentage  |
+| :------------: | :------------: |
+| 0 - 400.00   | 15%    |
+| 400.01 - 800.00   | 12%    |
+| 800.01 - 1200.00   | 10%    |
+| 1200.01 - 2000.00   | 7%    |
+| more than 2000.00   | 4%    |
+
+</p>
 
 <br>Read the employee's salary, calculate and display the new salary, as well as the readjustment amount gained and the index readjusted in percentage.
 
