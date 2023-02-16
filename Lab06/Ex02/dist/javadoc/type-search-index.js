@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"ex02","l":"Ex02"},{"p":"ex02","l":"Movable"},{"p":"ex02","l":"MovableCircle"},{"p":"ex02","l":"MovablePoint"}];updateSearchResults();
