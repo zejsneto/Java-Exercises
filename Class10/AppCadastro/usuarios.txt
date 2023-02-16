@@ -1,0 +1,3 @@
+Nome: null │ Sobrenome: null │ Email: null │ Idade: 0
+Nome: null │ Sobrenome: null │ Email: null │ Idade: 0
+Nome: Orlando │ Sobrenome: Silva │ Email: orlando@fei.edu.br │ Idade: 28
